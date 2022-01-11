@@ -21,5 +21,6 @@ namespace CarDealership_ver2._0
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
+        int a;
     }
 }

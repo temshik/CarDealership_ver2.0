@@ -12,6 +12,7 @@ namespace CarDealership_ver2._0
 {
     public class Program
     {
+        //enter point
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
